@@ -41,7 +41,7 @@ Check out the live demo of the Chef Cue App [here](https://chef-cue-recipe.netli
 
 ![Chef Cue App Screenshot1](public/chef-cue-ss1.png)
 ![Chef Cue App Screenshot2](public/chef-cue-ss2.png)
-![Chef Cue App Screenshot3](public/chef-cue-ss3.png)
+![Chef Cue App Screenshot3](public/chef-cue-ss4.png)
 
 ---
 
